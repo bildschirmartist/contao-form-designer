@@ -21,7 +21,7 @@
     "contao-community-alliance/meta-palettes": "^2.0 || ^1.11",
     "contao/core-bundle": "~4.4",
     "doctrine/dbal": "^2.5",
-    "menatwork/contao-multicolumnwizard": "^3.3.14",
+    "menatwork/contao-multicolumnwizard-bundle": "^3.4",
     "netzmacht/html": "~2.0",
     "psr/log": "^1.0",
     "symfony/config": "^3.3 || ^4.0",
